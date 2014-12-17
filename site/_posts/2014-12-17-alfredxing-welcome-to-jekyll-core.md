@@ -7,11 +7,11 @@ version: alfredxing
 categories: [team]
 ---
 
-We're excited to announce that @alfredxing has joined the @jekyll/core
+We're excited to announce that [@alfredxing][] has joined the @jekyll/core
 team!
 
 He hails from Vancouver, BC, Canada, where he is studying Economics and
-Computer Science at the University of British Columbia. Alfred popped up in
+Computer Science at the [University of British Columbia][]. Alfred popped up in
 the issues a few months ago with terrific insights, focus, and humility.
 Performance buffs may be pleased to hear incremental regeneration will be
 released in a future version of Jekyll -- the feature single-handedly
@@ -22,3 +22,6 @@ he's agreed to lend his talents to this project. The future is an exciting
 place!
 
 Happy Jekylling!
+
+[@alfredxing]: https://github.com/alfredxing
+[University of British Columbia]: http://ubc.ca
