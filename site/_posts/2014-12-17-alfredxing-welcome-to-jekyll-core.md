@@ -1,6 +1,6 @@
 ---
 layout: news_item
-title: 'alfredxing has joined the Jekyll core team'
+title: 'Alfred Xing has joined the Jekyll core team'
 date: 2014-12-17 11:16:21 -0800
 author: parkr
 version: alfredxing
